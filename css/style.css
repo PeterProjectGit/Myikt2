@@ -1,3 +1,4 @@
+
 *{box-sizing: border-box; margin: 0; padding: 0;}
 .navbar{
     position: relative;
@@ -12,3 +13,14 @@
 .form-control{
     background-color: #214252!important;
 }
+
+*{
+    padding: 0; margin: 0; box-sizing: border-box;
+}
+main{
+    padding: 3rem;
+}
+.my-img{
+    
+}
+
